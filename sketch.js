@@ -1628,6 +1628,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -1700,6 +1701,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -1772,6 +1774,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 1;
       }
 
@@ -1840,6 +1843,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -1912,6 +1916,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 1;
       }
 
@@ -1980,6 +1985,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -2052,6 +2058,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 1;
       }
 
@@ -2120,6 +2127,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -2192,6 +2200,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 1;
       }
 
@@ -2260,6 +2269,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -2332,6 +2342,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 1;
       }
 
@@ -2400,6 +2411,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -2472,6 +2484,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 1;
       }
 
@@ -2540,6 +2553,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -2612,6 +2626,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 1;
       }
 
@@ -2680,6 +2695,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
@@ -2779,6 +2795,7 @@ function mouseClicked() {
         score = 0;
         minigame.stage = 0;
         minigame.n = 0;
+        addHint = 0;
         mainStage = 0;
       }
 
